@@ -1,15 +1,12 @@
 '''
 Author: your name
 Date: 2021-05-27 16:41:11
-LastEditTime: 2021-06-01 16:13:41
+LastEditTime: 2021-06-01 16:40:03
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: \第九次作业\ECC.py
 '''
 import numpy as np
-
-def gittest():
-    pass
 
 def exgcd(a, b):
 
